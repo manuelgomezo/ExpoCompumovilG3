@@ -1,1 +1,1 @@
-include ':Interstitial'
+include ':Interstitial', ':BannerAd', ':RewardAd'

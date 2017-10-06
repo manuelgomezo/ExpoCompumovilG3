@@ -8,7 +8,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/BannerAd" />
             <option value="$PROJECT_DIR$/Interstitial" />
+            <option value="$PROJECT_DIR$/RewardAd" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

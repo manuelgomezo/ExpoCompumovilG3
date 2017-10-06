@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExpoG3.iml" filepath="$PROJECT_DIR$/ExpoG3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BannerAd/BannerAd.iml" filepath="$PROJECT_DIR$/BannerAd/BannerAd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExpoCompumovilG3.iml" filepath="$PROJECT_DIR$/ExpoCompumovilG3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interstitial/Interstitial.iml" filepath="$PROJECT_DIR$/Interstitial/Interstitial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RewardAd/RewardAd.iml" filepath="$PROJECT_DIR$/RewardAd/RewardAd.iml" />
     </modules>
   </component>
 </project>
